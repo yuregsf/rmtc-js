@@ -6,13 +6,13 @@ I find quite boring searching for my phone to know if my bus is closeby. So I ma
 
 ### Instalation
 
-This is a node applicatin, so you need to install the dependencies.
-
-You can use your favorite package manager.
+This is a node application, so you need to install the dependencies. You can use your favorite package manager.
 
 ```bash
 pnpm i
 ```
+
+### Running
 
 ```bash
 node index.js 31530

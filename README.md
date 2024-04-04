@@ -15,6 +15,7 @@ pnpm i
 ### Running
 
 ```bash
+node index.js <número do ponto>
 node index.js 31530
 
 ┌─────────┬───────┬───────────────────────────┬─────────┬───────────┐
